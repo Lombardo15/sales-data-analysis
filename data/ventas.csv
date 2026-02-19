@@ -1,1 +1,19 @@
-
+fecha,producto,categoria,precio,cantidad,region
+2024-01-05,Laptop A,Electronica,950,3,Centro
+2024-01-06,Laptop B,Electronica,1100,2,Centro
+2024-01-07,Mouse,Accesorios,25,10,Norte
+2024-01-08,Teclado,Accesorios,45,7,Norte
+2024-02-10,Monitor 24,Electronica,220,5,Sur
+2024-02-11,Monitor 27,Electronica,320,4,Sur
+2024-02-15,Silla Oficina,Muebles,180,3,Centro
+2024-02-18,Escritorio,Muebles,350,2,Centro
+2024-03-01,Tablet,Electronica,450,6,Este
+2024-03-05,Auriculares,Accesorios,60,8,Este
+2024-03-12,Impresora,Electronica,,2,Norte
+2024-03-20,Router,Electronica,90,5,Norte
+2024-04-01,Archivador,Muebles,120,4,Sur
+2024-04-08,Laptop A,Electronica,980,2,Centro
+2024-04-15,Mouse,Accesorios,25,12,Centro
+2024-05-03,Teclado,Accesorios,,6,Este
+2024-05-10,Monitor 27,Electronica,340,3,Este
+2024-06-01,Silla Oficina,Muebles,190,4,Norte
