@@ -99,8 +99,6 @@ analisis-ventas/
     - Frecuencia de venta por producto
     - Optimización de inventario
 
-## 🚀 Instalación y Uso
-
 ### Prerrequisitos
 
 - Python 3.8 o superior
